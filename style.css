@@ -4,5 +4,7 @@ body
 }
 p
 {
-    border: solid 200px 200px lightcoral;
+    border: solid 5px 5px lightcoral;
+    width: 200px;
+    height: 200px;
 }
